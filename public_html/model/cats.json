@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Cat 1",
+        "image": "cat_picture1.jpg",
+        "counter": 0
+    },
+    {
+        "name": "Cat 2",
+        "image": "cat_picture2.jpeg",
+        "counter": 0
+    },
+    {
+        "name": "Cat 3",
+        "image": "cat_picture3.jpeg",
+        "counter": 0
+    },
+    {
+        "name": "Cat 4",
+        "image": "cat_picture4.jpeg",
+        "counter": 0
+    },
+    {
+        "name": "Cat 5",
+        "image": "cat_picture5.jpeg",
+        "counter": 0
+    }
+]
